@@ -1,4 +1,4 @@
-import { catalogData } from "@/lib/catalogData";
+import { catalogData } from "../../lib/catalogData";
 import Image from "next/image";
 
 export default function Catalogo() {
